@@ -14,7 +14,3 @@ class CustomeStore < ActiveRecord::Base
   end
 
 end
-
-
-axError: /home/coryjbergquist/activerecord-costume-store-todo-v-000/app/models/costume.rb:14: syntax error, unexpected end-of-input, expecting key
-word_end
