@@ -1,5 +1,5 @@
 # Create your CostumeStore class here
-class CustomeStore
+class CustomeStore < ActiveRecord::Base
 
   def change
     create_table :customestores do |t|
