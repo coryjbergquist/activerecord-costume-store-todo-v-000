@@ -1,3 +1,4 @@
+
 # Create a class and inherit from ActiveRecord::Migration
 
 # By convention, the class name should match the part of the
@@ -8,5 +9,8 @@
 # In this change method, create columns with the correct names and
 # value types according to the spec
 
-class Costumes < ActiveRecord::Migration
+class CreateCostumes < ActiveRecord::Migration
+
+    
   
+end
