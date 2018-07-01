@@ -14,7 +14,6 @@ class CreateCostumes < ActiveRecord::Migration
     def change
      add_columns :costumes, :name, :string
 
-      
     end
-  
+
 end
