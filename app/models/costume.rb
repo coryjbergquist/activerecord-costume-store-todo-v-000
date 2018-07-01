@@ -4,7 +4,7 @@
 class Costume < ActiveRecord::Base
 
   def change
-    create_table :costumes[4.2]
+    create_table :costumes
   end
 
 end
