@@ -12,7 +12,7 @@
 class CreateCostumes < ActiveRecord::Migration[4.2]
 
     def change
-     add_columns :costumes, :name, :string
+     add_column :costumes, :name, :string
 
     end
 
